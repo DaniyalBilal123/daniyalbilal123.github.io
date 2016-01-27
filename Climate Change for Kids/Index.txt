@@ -1,0 +1,11 @@
+<Html>
+<head>
+<title>
+Climate Change For Kids
+</title>
+</head>
+
+<body  background="http://cdn.billmoyers.com/wp-content/uploads/2014/12/polar-bear.jpg">
+
+</body>
+</html>
